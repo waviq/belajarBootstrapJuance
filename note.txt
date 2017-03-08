@@ -1,0 +1,3 @@
+pasang css
+1. via id
+2. via class
